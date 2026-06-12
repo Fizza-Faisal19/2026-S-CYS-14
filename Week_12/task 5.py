@@ -1,0 +1,6 @@
+print(len("Fizza Faisal"))
+print(max(20, 20))
+print(min(-20, 20))
+print(type(5))
+print(type(5.5))
+print(type("a"))
